@@ -1,0 +1,960 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="mvlempyr-13736-1783667410"/>
+    <meta name="dtb:depth" content="1"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle><text>Heroine Creation All My Summons Are Custom Made</text></docTitle>
+  <navMap>
+    <navPoint id="navPoint-0001" playOrder="1">
+      <navLabel><text>Chapter 1 Youre Not Dead Are You</text></navLabel>
+      <content src="chapters/chapter_0001.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0002" playOrder="2">
+      <navLabel><text>Chapter 2 Welcome to Awakener Supreme</text></navLabel>
+      <content src="chapters/chapter_0002.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0003" playOrder="3">
+      <navLabel><text>Chapter 3 I Bet He Summons Rats</text></navLabel>
+      <content src="chapters/chapter_0003.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0004" playOrder="4">
+      <navLabel><text>Chapter 4 Welcome to Summoner 101</text></navLabel>
+      <content src="chapters/chapter_0004.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0005" playOrder="5">
+      <navLabel><text>Chapter 5 This Better Be Good</text></navLabel>
+      <content src="chapters/chapter_0005.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0006" playOrder="6">
+      <navLabel><text>Chapter 6 Perks of Obsessively Reading A Novel</text></navLabel>
+      <content src="chapters/chapter_0006.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0007" playOrder="7">
+      <navLabel><text>Chapter 7 Basically a Glorified Carpenter</text></navLabel>
+      <content src="chapters/chapter_0007.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0008" playOrder="8">
+      <navLabel><text>Chapter 8 Home Sweet Hell</text></navLabel>
+      <content src="chapters/chapter_0008.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0009" playOrder="9">
+      <navLabel><text>Chapter 9 You Got A Death Wish Dull Rank</text></navLabel>
+      <content src="chapters/chapter_0009.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0010" playOrder="10">
+      <navLabel><text>Chapter 10 Theres No Point In Being A Hero</text></navLabel>
+      <content src="chapters/chapter_0010.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0011" playOrder="11">
+      <navLabel><text>Chapter 11 Muscles Dont Help Summoners</text></navLabel>
+      <content src="chapters/chapter_0011.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0012" playOrder="12">
+      <navLabel><text>Chapter 12 I Need A Bath</text></navLabel>
+      <content src="chapters/chapter_0012.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0013" playOrder="13">
+      <navLabel><text>Chapter 13 The Wheat From the Chaff</text></navLabel>
+      <content src="chapters/chapter_0013.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0014" playOrder="14">
+      <navLabel><text>Chapter 14 Guardian of the Greatest Gate</text></navLabel>
+      <content src="chapters/chapter_0014.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0015" playOrder="15">
+      <navLabel><text>Chapter 15 Get Up and Fight</text></navLabel>
+      <content src="chapters/chapter_0015.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0016" playOrder="16">
+      <navLabel><text>Chapter 16 Im A God</text></navLabel>
+      <content src="chapters/chapter_0016.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0017" playOrder="17">
+      <navLabel><text>Chapter 17 The War Begins Tomorrow</text></navLabel>
+      <content src="chapters/chapter_0017.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0018" playOrder="18">
+      <navLabel><text>Chapter 18 My Blade Is Yours</text></navLabel>
+      <content src="chapters/chapter_0018.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0019" playOrder="19">
+      <navLabel><text>Chapter 19 Nothing But Mud and Heat</text></navLabel>
+      <content src="chapters/chapter_0019.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0020" playOrder="20">
+      <navLabel><text>Chapter 20 Dignity Is Overrated</text></navLabel>
+      <content src="chapters/chapter_0020.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0021" playOrder="21">
+      <navLabel><text>Chapter 21 Enter the Gates</text></navLabel>
+      <content src="chapters/chapter_0021.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0022" playOrder="22">
+      <navLabel><text>Chapter 22 A Cannon To Kill A Mosquito</text></navLabel>
+      <content src="chapters/chapter_0022.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0023" playOrder="23">
+      <navLabel><text>Chapter 23 Out Of The Top Spot</text></navLabel>
+      <content src="chapters/chapter_0023.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0024" playOrder="24">
+      <navLabel><text>Chapter 24 Pretty Much Nothing</text></navLabel>
+      <content src="chapters/chapter_0024.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0025" playOrder="25">
+      <navLabel><text>Chapter 25 An Enemy Out Of Nereus Grimlake</text></navLabel>
+      <content src="chapters/chapter_0025.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0026" playOrder="26">
+      <navLabel><text>Chapter 26 Allies In Higher Places</text></navLabel>
+      <content src="chapters/chapter_0026.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0027" playOrder="27">
+      <navLabel><text>Chapter 27 Clearly A Daredevil</text></navLabel>
+      <content src="chapters/chapter_0027.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0028" playOrder="28">
+      <navLabel><text>Chapter 28 Show You The New World</text></navLabel>
+      <content src="chapters/chapter_0028.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0029" playOrder="29">
+      <navLabel><text>Chapter 29 You Are A Person</text></navLabel>
+      <content src="chapters/chapter_0029.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0030" playOrder="30">
+      <navLabel><text>Chapter 30 Training Wheels Are Coming Off</text></navLabel>
+      <content src="chapters/chapter_0030.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0031" playOrder="31">
+      <navLabel><text>Chapter 31 I Choose That Gate</text></navLabel>
+      <content src="chapters/chapter_0031.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0032" playOrder="32">
+      <navLabel><text>Chapter 32 Show Time</text></navLabel>
+      <content src="chapters/chapter_0032.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0033" playOrder="33">
+      <navLabel><text>Chapter 33 They Are Merely Middle Orcs</text></navLabel>
+      <content src="chapters/chapter_0033.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0034" playOrder="34">
+      <navLabel><text>Chapter 34 Heavenly Sword Cannonbolt</text></navLabel>
+      <content src="chapters/chapter_0034.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0035" playOrder="35">
+      <navLabel><text>Chapter 35 Try Not To Lose Your Legs</text></navLabel>
+      <content src="chapters/chapter_0035.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0036" playOrder="36">
+      <navLabel><text>Chapter 36 Ready. Set. Go</text></navLabel>
+      <content src="chapters/chapter_0036.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0037" playOrder="37">
+      <navLabel><text>Chapter 37 Theyre Immortal Theyre Not</text></navLabel>
+      <content src="chapters/chapter_0037.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0038" playOrder="38">
+      <navLabel><text>Chapter 38 Everything Is Just Swell</text></navLabel>
+      <content src="chapters/chapter_0038.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0039" playOrder="39">
+      <navLabel><text>Chapter 39 You Have My Word</text></navLabel>
+      <content src="chapters/chapter_0039.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0040" playOrder="40">
+      <navLabel><text>Chapter 40 Glorious Sword Projection</text></navLabel>
+      <content src="chapters/chapter_0040.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0041" playOrder="41">
+      <navLabel><text>Chapter 41 Sweet Bliss of Selective Hearing</text></navLabel>
+      <content src="chapters/chapter_0041.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0042" playOrder="42">
+      <navLabel><text>Chapter 42 I Want You To Have It</text></navLabel>
+      <content src="chapters/chapter_0042.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0043" playOrder="43">
+      <navLabel><text>Chapter 43 Drink Up</text></navLabel>
+      <content src="chapters/chapter_0043.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0044" playOrder="44">
+      <navLabel><text>Chapter 44 Is That What A Heart Tastes Like</text></navLabel>
+      <content src="chapters/chapter_0044.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0045" playOrder="45">
+      <navLabel><text>Chapter 45 The Infamous Lancet Leogardt</text></navLabel>
+      <content src="chapters/chapter_0045.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0046" playOrder="46">
+      <navLabel><text>Chapter 46 There Are Many Ways To Hurt Someone</text></navLabel>
+      <content src="chapters/chapter_0046.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0047" playOrder="47">
+      <navLabel><text>Chapter 47 It Comes With The Territory</text></navLabel>
+      <content src="chapters/chapter_0047.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0048" playOrder="48">
+      <navLabel><text>Chapter 48 Dont Play It Down</text></navLabel>
+      <content src="chapters/chapter_0048.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0049" playOrder="49">
+      <navLabel><text>Chapter 49 Are You Ready To Train Me</text></navLabel>
+      <content src="chapters/chapter_0049.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0050" playOrder="50">
+      <navLabel><text>Chapter 50 Balance Is Everything</text></navLabel>
+      <content src="chapters/chapter_0050.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0051" playOrder="51">
+      <navLabel><text>Chapter 51 Proud Is Not Bad</text></navLabel>
+      <content src="chapters/chapter_0051.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0052" playOrder="52">
+      <navLabel><text>Chapter 52 You Want Me To Spar With You</text></navLabel>
+      <content src="chapters/chapter_0052.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0053" playOrder="53">
+      <navLabel><text>Chapter 53 Its Thor Time</text></navLabel>
+      <content src="chapters/chapter_0053.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0054" playOrder="54">
+      <navLabel><text>Chapter 54 Pretty Awesome Sometimes</text></navLabel>
+      <content src="chapters/chapter_0054.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0055" playOrder="55">
+      <navLabel><text>Chapter 55 A Battery of Brutality</text></navLabel>
+      <content src="chapters/chapter_0055.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0056" playOrder="56">
+      <navLabel><text>Chapter 56 Call Your Summons</text></navLabel>
+      <content src="chapters/chapter_0056.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0057" playOrder="57">
+      <navLabel><text>Chapter 57 Youre Not The Only One Who Can Summon Legends</text></navLabel>
+      <content src="chapters/chapter_0057.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0058" playOrder="58">
+      <navLabel><text>Chapter 58 He Summoned Another Legend Bonus Chapter</text></navLabel>
+      <content src="chapters/chapter_0058.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0059" playOrder="59">
+      <navLabel><text>Chapter 59 The Might of A Shadow Bonus Chapter</text></navLabel>
+      <content src="chapters/chapter_0059.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0060" playOrder="60">
+      <navLabel><text>Chapter 60 Tell Us Your Secret</text></navLabel>
+      <content src="chapters/chapter_0060.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0061" playOrder="61">
+      <navLabel><text>Chapter 61 All A Stroke Of My Genius</text></navLabel>
+      <content src="chapters/chapter_0061.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0062" playOrder="62">
+      <navLabel><text>Chapter 62 Exactly As I Created Her</text></navLabel>
+      <content src="chapters/chapter_0062.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0063" playOrder="63">
+      <navLabel><text>Chapter 63 Always Feels Like Leg Day Bonus Chapter</text></navLabel>
+      <content src="chapters/chapter_0063.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0064" playOrder="64">
+      <navLabel><text>Chapter 64 The One With The Iron Will Bonus Chapter</text></navLabel>
+      <content src="chapters/chapter_0064.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0065" playOrder="65">
+      <navLabel><text>Chapter 65 Oddly Intimate Master Bonus Chapter</text></navLabel>
+      <content src="chapters/chapter_0065.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0066" playOrder="66">
+      <navLabel><text>Chapter 66 Everyone Has The Desire To Become Stronger Bonus Chapter</text></navLabel>
+      <content src="chapters/chapter_0066.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0067" playOrder="67">
+      <navLabel><text>Chapter 67 Thank You So Much Miss Nightingale Bonus Chapter</text></navLabel>
+      <content src="chapters/chapter_0067.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0068" playOrder="68">
+      <navLabel><text>Chapter 68 You Are Here For A Reevaluation Bonus Chapter</text></navLabel>
+      <content src="chapters/chapter_0068.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0069" playOrder="69">
+      <navLabel><text>Chapter 69 Just Charging Up Bonus Chapter</text></navLabel>
+      <content src="chapters/chapter_0069.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0070" playOrder="70">
+      <navLabel><text>Chapter 70 Crowd Control Bitches</text></navLabel>
+      <content src="chapters/chapter_0070.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0071" playOrder="71">
+      <navLabel><text>Chapter 71 I Want Your Best</text></navLabel>
+      <content src="chapters/chapter_0071.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0072" playOrder="72">
+      <navLabel><text>Chapter 72 So How Are We Doing This</text></navLabel>
+      <content src="chapters/chapter_0072.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0073" playOrder="73">
+      <navLabel><text>Chapter 73 Beauty Is Subjective Right</text></navLabel>
+      <content src="chapters/chapter_0073.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0074" playOrder="74">
+      <navLabel><text>Chapter 74 Submit To The Serpents And Be Spared The Fangs</text></navLabel>
+      <content src="chapters/chapter_0074.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0075" playOrder="75">
+      <navLabel><text>Chapter 75 Eat Thunder</text></navLabel>
+      <content src="chapters/chapter_0075.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0076" playOrder="76">
+      <navLabel><text>Chapter 76 Batter Up Slum Rat</text></navLabel>
+      <content src="chapters/chapter_0076.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0077" playOrder="77">
+      <navLabel><text>Chapter 77 You All Just Suck</text></navLabel>
+      <content src="chapters/chapter_0077.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0078" playOrder="78">
+      <navLabel><text>Chapter 78 I Am Not Your Toy</text></navLabel>
+      <content src="chapters/chapter_0078.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0079" playOrder="79">
+      <navLabel><text>Chapter 79 Time To Upgrade</text></navLabel>
+      <content src="chapters/chapter_0079.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0080" playOrder="80">
+      <navLabel><text>Chapter 80 Nothing Is Truly Impossible In This World Bonus Chapter</text></navLabel>
+      <content src="chapters/chapter_0080.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0081" playOrder="81">
+      <navLabel><text>Chapter 81 A Huge Matter Has Risen Bonus Chapter</text></navLabel>
+      <content src="chapters/chapter_0081.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0082" playOrder="82">
+      <navLabel><text>Chapter 82 For The Excellence and Dignity of Humanity</text></navLabel>
+      <content src="chapters/chapter_0082.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0083" playOrder="83">
+      <navLabel><text>Chapter 83 Were Going To Hebthej</text></navLabel>
+      <content src="chapters/chapter_0083.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0084" playOrder="84">
+      <navLabel><text>Chapter 84 Try Not To Die</text></navLabel>
+      <content src="chapters/chapter_0084.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0085" playOrder="85">
+      <navLabel><text>Chapter 85 Adios Professor</text></navLabel>
+      <content src="chapters/chapter_0085.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0086" playOrder="86">
+      <navLabel><text>Chapter 86 Only Losers Complain</text></navLabel>
+      <content src="chapters/chapter_0086.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0087" playOrder="87">
+      <navLabel><text>Chapter 87 Two At Once</text></navLabel>
+      <content src="chapters/chapter_0087.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0088" playOrder="88">
+      <navLabel><text>Chapter 88 All Is Forgiven</text></navLabel>
+      <content src="chapters/chapter_0088.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0089" playOrder="89">
+      <navLabel><text>Chapter 89 Its About Saving People Right</text></navLabel>
+      <content src="chapters/chapter_0089.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0090" playOrder="90">
+      <navLabel><text>Chapter 90 These Are Your Punishments</text></navLabel>
+      <content src="chapters/chapter_0090.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0091" playOrder="91">
+      <navLabel><text>Chapter 91 Youre Still My Summon</text></navLabel>
+      <content src="chapters/chapter_0091.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0092" playOrder="92">
+      <navLabel><text>Chapter 92 The Dropship Has Arrived</text></navLabel>
+      <content src="chapters/chapter_0092.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0093" playOrder="93">
+      <navLabel><text>Chapter 93 The Kingdom Has Sent Awakeners</text></navLabel>
+      <content src="chapters/chapter_0093.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0094" playOrder="94">
+      <navLabel><text>Chapter 94 So Whats The New Plan</text></navLabel>
+      <content src="chapters/chapter_0094.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0095" playOrder="95">
+      <navLabel><text>Chapter 95 Keep Your Wits About You</text></navLabel>
+      <content src="chapters/chapter_0095.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0096" playOrder="96">
+      <navLabel><text>Chapter 96 Lightning Storm Plurality</text></navLabel>
+      <content src="chapters/chapter_0096.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0097" playOrder="97">
+      <navLabel><text>Chapter 97 Blessed Slash - Holy Reinforcements</text></navLabel>
+      <content src="chapters/chapter_0097.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0098" playOrder="98">
+      <navLabel><text>Chapter 98 What Are You Waiting For</text></navLabel>
+      <content src="chapters/chapter_0098.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0099" playOrder="99">
+      <navLabel><text>Chapter 99 The Path Is Clear</text></navLabel>
+      <content src="chapters/chapter_0099.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0100" playOrder="100">
+      <navLabel><text>Chapter 100 What A Hideous Thing</text></navLabel>
+      <content src="chapters/chapter_0100.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0101" playOrder="101">
+      <navLabel><text>Chapter 101 Ill Be Back Soon Master</text></navLabel>
+      <content src="chapters/chapter_0101.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0102" playOrder="102">
+      <navLabel><text>Chapter 102 Were Saved Were Truly Saved</text></navLabel>
+      <content src="chapters/chapter_0102.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0103" playOrder="103">
+      <navLabel><text>Chapter 103 Wheres Lancet</text></navLabel>
+      <content src="chapters/chapter_0103.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0104" playOrder="104">
+      <navLabel><text>Chapter 104 Im On A Schedule Here</text></navLabel>
+      <content src="chapters/chapter_0104.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0105" playOrder="105">
+      <navLabel><text>Chapter 105 Your Play Demon Head</text></navLabel>
+      <content src="chapters/chapter_0105.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0106" playOrder="106">
+      <navLabel><text>Chapter 106 Go Save Your Master</text></navLabel>
+      <content src="chapters/chapter_0106.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0107" playOrder="107">
+      <navLabel><text>Chapter 107 How About I Light Up Your Dark Heart</text></navLabel>
+      <content src="chapters/chapter_0107.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0108" playOrder="108">
+      <navLabel><text>Chapter 108 Another Demon Head</text></navLabel>
+      <content src="chapters/chapter_0108.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0109" playOrder="109">
+      <navLabel><text>Chapter 109 David and Goliath Has Always Been My Favorite Bible Story</text></navLabel>
+      <content src="chapters/chapter_0109.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0110" playOrder="110">
+      <navLabel><text>Chapter 110 Lets Get Rid Of This Domain Shall We</text></navLabel>
+      <content src="chapters/chapter_0110.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0111" playOrder="111">
+      <navLabel><text>Chapter 111 I Will Not Let You Harm My Children</text></navLabel>
+      <content src="chapters/chapter_0111.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0112" playOrder="112">
+      <navLabel><text>Chapter 112 I Really Think I Cooked Here</text></navLabel>
+      <content src="chapters/chapter_0112.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0113" playOrder="113">
+      <navLabel><text>Chapter 113 I Am Thoroughly Entertained</text></navLabel>
+      <content src="chapters/chapter_0113.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0114" playOrder="114">
+      <navLabel><text>Chapter 114 Just Keep Your Eyes Open</text></navLabel>
+      <content src="chapters/chapter_0114.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0115" playOrder="115">
+      <navLabel><text>Chapter 115 It Was Only A Tear</text></navLabel>
+      <content src="chapters/chapter_0115.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0116" playOrder="116">
+      <navLabel><text>Chapter 116 Saved By The Bell</text></navLabel>
+      <content src="chapters/chapter_0116.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0117" playOrder="117">
+      <navLabel><text>Chapter 117 Try It If You Can Thunderbird</text></navLabel>
+      <content src="chapters/chapter_0117.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0118" playOrder="118">
+      <navLabel><text>Chapter 118 My Knight</text></navLabel>
+      <content src="chapters/chapter_0118.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0119" playOrder="119">
+      <navLabel><text>Chapter 119 I Really Want To</text></navLabel>
+      <content src="chapters/chapter_0119.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0120" playOrder="120">
+      <navLabel><text>Chapter 120 Have I Ever Been This Hard Before</text></navLabel>
+      <content src="chapters/chapter_0120.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0121" playOrder="121">
+      <navLabel><text>Chapter 121 Youre The Knight And Im The Prince</text></navLabel>
+      <content src="chapters/chapter_0121.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0122" playOrder="122">
+      <navLabel><text>Chapter 122 You Really Are The Demon Dissector</text></navLabel>
+      <content src="chapters/chapter_0122.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0123" playOrder="123">
+      <navLabel><text>Chapter 123 The Defenders of Hebthej</text></navLabel>
+      <content src="chapters/chapter_0123.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0124" playOrder="124">
+      <navLabel><text>Chapter 124 Hes Actually Loaded</text></navLabel>
+      <content src="chapters/chapter_0124.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0125" playOrder="125">
+      <navLabel><text>Chapter 125 Thats Pretty Much The Idea</text></navLabel>
+      <content src="chapters/chapter_0125.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0126" playOrder="126">
+      <navLabel><text>Chapter 126 Why Would You Refuse</text></navLabel>
+      <content src="chapters/chapter_0126.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0127" playOrder="127">
+      <navLabel><text>Chapter 127 At The Moment</text></navLabel>
+      <content src="chapters/chapter_0127.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0128" playOrder="128">
+      <navLabel><text>Chapter 128 Welcome Back Lancet</text></navLabel>
+      <content src="chapters/chapter_0128.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0129" playOrder="129">
+      <navLabel><text>Chapter 129 Its Your Willpower</text></navLabel>
+      <content src="chapters/chapter_0129.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0130" playOrder="130">
+      <navLabel><text>Chapter 130 Its Just How I Want It</text></navLabel>
+      <content src="chapters/chapter_0130.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0131" playOrder="131">
+      <navLabel><text>Chapter 131 That All You Got</text></navLabel>
+      <content src="chapters/chapter_0131.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0132" playOrder="132">
+      <navLabel><text>Chapter 132 A Place For The Beginning Of Obedient Monsters</text></navLabel>
+      <content src="chapters/chapter_0132.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0133" playOrder="133">
+      <navLabel><text>Chapter 133 Lancet Leogardt I Am Yours</text></navLabel>
+      <content src="chapters/chapter_0133.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0134" playOrder="134">
+      <navLabel><text>Chapter 134 You Cant Just Leave Now</text></navLabel>
+      <content src="chapters/chapter_0134.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0135" playOrder="135">
+      <navLabel><text>Chapter 135 Finally Some Good PR</text></navLabel>
+      <content src="chapters/chapter_0135.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0136" playOrder="136">
+      <navLabel><text>Chapter 136 As If I Could</text></navLabel>
+      <content src="chapters/chapter_0136.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0137" playOrder="137">
+      <navLabel><text>Chapter 137 Theres A Movie Room In This Dorm</text></navLabel>
+      <content src="chapters/chapter_0137.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0138" playOrder="138">
+      <navLabel><text>Chapter 138 Celebration Breeds Complacency</text></navLabel>
+      <content src="chapters/chapter_0138.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0139" playOrder="139">
+      <navLabel><text>Chapter 139 We Are Going To Win</text></navLabel>
+      <content src="chapters/chapter_0139.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0140" playOrder="140">
+      <navLabel><text>Chapter 140 It Just Takes One Push</text></navLabel>
+      <content src="chapters/chapter_0140.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0141" playOrder="141">
+      <navLabel><text>Chapter 141 Dont Embarrass Us Or Youll Die</text></navLabel>
+      <content src="chapters/chapter_0141.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0142" playOrder="142">
+      <navLabel><text>Chapter 142 The 174th Inter-Class Competitions Are About To Begin</text></navLabel>
+      <content src="chapters/chapter_0142.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0143" playOrder="143">
+      <navLabel><text>Chapter 143 The Dungeon Expedition Score Runs</text></navLabel>
+      <content src="chapters/chapter_0143.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0144" playOrder="144">
+      <navLabel><text>Chapter 144 No Good Deed Goes Unpunished Huh</text></navLabel>
+      <content src="chapters/chapter_0144.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0145" playOrder="145">
+      <navLabel><text>Chapter 145 Min Tu I Hope You Have An Appetite</text></navLabel>
+      <content src="chapters/chapter_0145.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0146" playOrder="146">
+      <navLabel><text>Chapter 146 No Need To Reveal Our Full Hand Yet</text></navLabel>
+      <content src="chapters/chapter_0146.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0147" playOrder="147">
+      <navLabel><text>Chapter 147 Lets Finish Them</text></navLabel>
+      <content src="chapters/chapter_0147.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0148" playOrder="148">
+      <navLabel><text>Chapter 148 A Little Extra Tribute Never Hurts</text></navLabel>
+      <content src="chapters/chapter_0148.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0149" playOrder="149">
+      <navLabel><text>Chapter 149 Quantity Over Quality</text></navLabel>
+      <content src="chapters/chapter_0149.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0150" playOrder="150">
+      <navLabel><text>Chapter 150 How Do You Think I Feel</text></navLabel>
+      <content src="chapters/chapter_0150.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0151" playOrder="151">
+      <navLabel><text>Chapter 151 What The Hell Is Going On</text></navLabel>
+      <content src="chapters/chapter_0151.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0152" playOrder="152">
+      <navLabel><text>Chapter 152 Dont Start Looking Guilty Now</text></navLabel>
+      <content src="chapters/chapter_0152.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0153" playOrder="153">
+      <navLabel><text>Chapter 153 Childs Play</text></navLabel>
+      <content src="chapters/chapter_0153.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0154" playOrder="154">
+      <navLabel><text>Chapter 154 A Summon Is Only As Powerful As Their Summoner.</text></navLabel>
+      <content src="chapters/chapter_0154.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0155" playOrder="155">
+      <navLabel><text>Chapter 155 Finders Keepers</text></navLabel>
+      <content src="chapters/chapter_0155.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0156" playOrder="156">
+      <navLabel><text>Chapter 156 Playtimes Over</text></navLabel>
+      <content src="chapters/chapter_0156.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0157" playOrder="157">
+      <navLabel><text>Chapter 157 A Very Generous Use Of The Word</text></navLabel>
+      <content src="chapters/chapter_0157.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0158" playOrder="158">
+      <navLabel><text>Chapter 158 Its The King Kong</text></navLabel>
+      <content src="chapters/chapter_0158.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0159" playOrder="159">
+      <navLabel><text>Chapter 159 Have It Your Way</text></navLabel>
+      <content src="chapters/chapter_0159.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0160" playOrder="160">
+      <navLabel><text>Chapter 160 Its A Battle of Giants</text></navLabel>
+      <content src="chapters/chapter_0160.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0161" playOrder="161">
+      <navLabel><text>Chapter 161 Summoner-D Is Still In This Fight</text></navLabel>
+      <content src="chapters/chapter_0161.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0162" playOrder="162">
+      <navLabel><text>Chapter 162 I Cant Trust My Grace</text></navLabel>
+      <content src="chapters/chapter_0162.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0163" playOrder="163">
+      <navLabel><text>Chapter 163 There Is Strength In Unity</text></navLabel>
+      <content src="chapters/chapter_0163.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0164" playOrder="164">
+      <navLabel><text>Chapter 164 Nothing Some Food Cant Fix</text></navLabel>
+      <content src="chapters/chapter_0164.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0165" playOrder="165">
+      <navLabel><text>Chapter 165 Free From The Constraints Of My Own Standard</text></navLabel>
+      <content src="chapters/chapter_0165.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0166" playOrder="166">
+      <navLabel><text>Chapter 166 Life Only Is Because Of Death</text></navLabel>
+      <content src="chapters/chapter_0166.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0167" playOrder="167">
+      <navLabel><text>Chapter 167 A Little Better Than I Thought</text></navLabel>
+      <content src="chapters/chapter_0167.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0168" playOrder="168">
+      <navLabel><text>Chapter 168 Who Are You</text></navLabel>
+      <content src="chapters/chapter_0168.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0169" playOrder="169">
+      <navLabel><text>Chapter 169 Youre Rather Talkative For A First-Year</text></navLabel>
+      <content src="chapters/chapter_0169.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0170" playOrder="170">
+      <navLabel><text>Chapter 170 Worry More About Us</text></navLabel>
+      <content src="chapters/chapter_0170.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0171" playOrder="171">
+      <navLabel><text>Chapter 171 Im Just Someone You Can Trust</text></navLabel>
+      <content src="chapters/chapter_0171.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0172" playOrder="172">
+      <navLabel><text>Chapter 172 Secure Them Before The Others Do</text></navLabel>
+      <content src="chapters/chapter_0172.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0173" playOrder="173">
+      <navLabel><text>Chapter 173 Let The Harvest Begin</text></navLabel>
+      <content src="chapters/chapter_0173.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0174" playOrder="174">
+      <navLabel><text>Chapter 174 That Arsenal Class Is No Joke</text></navLabel>
+      <content src="chapters/chapter_0174.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0175" playOrder="175">
+      <navLabel><text>Chapter 175 Every Coin Matters</text></navLabel>
+      <content src="chapters/chapter_0175.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0176" playOrder="176">
+      <navLabel><text>Chapter 176 Beautiful Glorious Chaos</text></navLabel>
+      <content src="chapters/chapter_0176.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0177" playOrder="177">
+      <navLabel><text>Chapter 177 One Specialist And A Full Team Of Summoners</text></navLabel>
+      <content src="chapters/chapter_0177.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0178" playOrder="178">
+      <navLabel><text>Chapter 178 An Arsenal Versus A Knight</text></navLabel>
+      <content src="chapters/chapter_0178.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0179" playOrder="179">
+      <navLabel><text>Chapter 179 He Fought The Freaking Main Character</text></navLabel>
+      <content src="chapters/chapter_0179.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0180" playOrder="180">
+      <navLabel><text>Chapter 180 Ill Definitely Have Sex With You</text></navLabel>
+      <content src="chapters/chapter_0180.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0181" playOrder="181">
+      <navLabel><text>Chapter 181 No One Else Will Die</text></navLabel>
+      <content src="chapters/chapter_0181.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0182" playOrder="182">
+      <navLabel><text>Chapter 182 Lets Go To The Bed Senior Espel</text></navLabel>
+      <content src="chapters/chapter_0182.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0183" playOrder="183">
+      <navLabel><text>Chapter 183 That Was An Orgasm</text></navLabel>
+      <content src="chapters/chapter_0183.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0184" playOrder="184">
+      <navLabel><text>Chapter 184 How Is That Going To Fit Inside Me</text></navLabel>
+      <content src="chapters/chapter_0184.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0185" playOrder="185">
+      <navLabel><text>Chapter 185 I Want To Feel It All</text></navLabel>
+      <content src="chapters/chapter_0185.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0186" playOrder="186">
+      <navLabel><text>Chapter 186 Better Than Ever</text></navLabel>
+      <content src="chapters/chapter_0186.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0187" playOrder="187">
+      <navLabel><text>Chapter 187 C For Astensia</text></navLabel>
+      <content src="chapters/chapter_0187.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0188" playOrder="188">
+      <navLabel><text>Chapter 188 I Didnt Just Level Up To Get Nerfed</text></navLabel>
+      <content src="chapters/chapter_0188.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0189" playOrder="189">
+      <navLabel><text>Chapter 189 Im Not Letting You Win</text></navLabel>
+      <content src="chapters/chapter_0189.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0190" playOrder="190">
+      <navLabel><text>Chapter 190 Lets Do This</text></navLabel>
+      <content src="chapters/chapter_0190.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0191" playOrder="191">
+      <navLabel><text>Chapter 191 Go Hold That Territory</text></navLabel>
+      <content src="chapters/chapter_0191.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0192" playOrder="192">
+      <navLabel><text>Chapter 192 I Used To Read Your Thoughts</text></navLabel>
+      <content src="chapters/chapter_0192.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0193" playOrder="193">
+      <navLabel><text>Chapter 193 We Meet Again</text></navLabel>
+      <content src="chapters/chapter_0193.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0194" playOrder="194">
+      <navLabel><text>Chapter 194 Dont Think Itll Be That Easy</text></navLabel>
+      <content src="chapters/chapter_0194.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0195" playOrder="195">
+      <navLabel><text>Chapter 195 Army of One</text></navLabel>
+      <content src="chapters/chapter_0195.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0196" playOrder="196">
+      <navLabel><text>Chapter 196 Almost Thought You Would Chicken Out</text></navLabel>
+      <content src="chapters/chapter_0196.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0197" playOrder="197">
+      <navLabel><text>Chapter 197 Shes My New Summon</text></navLabel>
+      <content src="chapters/chapter_0197.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0198" playOrder="198">
+      <navLabel><text>Chapter 198 Our Master</text></navLabel>
+      <content src="chapters/chapter_0198.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0199" playOrder="199">
+      <navLabel><text>Chapter 199 Let The Race Begin</text></navLabel>
+      <content src="chapters/chapter_0199.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0200" playOrder="200">
+      <navLabel><text>Chapter 200 Who Says Im Calling Her Bonus Chapter</text></navLabel>
+      <content src="chapters/chapter_0200.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0201" playOrder="201">
+      <navLabel><text>Chapter 201 Just Doing My Best</text></navLabel>
+      <content src="chapters/chapter_0201.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0202" playOrder="202">
+      <navLabel><text>Chapter 202 Just Like That</text></navLabel>
+      <content src="chapters/chapter_0202.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0203" playOrder="203">
+      <navLabel><text>Chapter 203 The Opposite Of A Butterfly Effect</text></navLabel>
+      <content src="chapters/chapter_0203.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0204" playOrder="204">
+      <navLabel><text>Chapter 204 Renans Actually Fighting Back</text></navLabel>
+      <content src="chapters/chapter_0204.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0205" playOrder="205">
+      <navLabel><text>Chapter 205 Not On My Level</text></navLabel>
+      <content src="chapters/chapter_0205.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0206" playOrder="206">
+      <navLabel><text>Chapter 206 Its Not Like I Have Anything To Lose</text></navLabel>
+      <content src="chapters/chapter_0206.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0207" playOrder="207">
+      <navLabel><text>Chapter 207 Learnt From The Best</text></navLabel>
+      <content src="chapters/chapter_0207.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0208" playOrder="208">
+      <navLabel><text>Chapter 208 No Need To Pretend</text></navLabel>
+      <content src="chapters/chapter_0208.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0209" playOrder="209">
+      <navLabel><text>Chapter 209 Your Body Is Slower Than Your Mind</text></navLabel>
+      <content src="chapters/chapter_0209.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0210" playOrder="210">
+      <navLabel><text>Chapter 210 What Have You Gone And Done Now</text></navLabel>
+      <content src="chapters/chapter_0210.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0211" playOrder="211">
+      <navLabel><text>Chapter 211 Dont Know. Dont Care</text></navLabel>
+      <content src="chapters/chapter_0211.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0212" playOrder="212">
+      <navLabel><text>Chapter 212 Next Is A One-on-One Combat Tournament</text></navLabel>
+      <content src="chapters/chapter_0212.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0213" playOrder="213">
+      <navLabel><text>Chapter 213 This is Ours</text></navLabel>
+      <content src="chapters/chapter_0213.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0214" playOrder="214">
+      <navLabel><text>Chapter 214 Ascend To Grandmastery</text></navLabel>
+      <content src="chapters/chapter_0214.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0215" playOrder="215">
+      <navLabel><text>Chapter 215 Master Not Grandmaster</text></navLabel>
+      <content src="chapters/chapter_0215.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0216" playOrder="216">
+      <navLabel><text>Chapter 216 Stand Up Princess Kestrel</text></navLabel>
+      <content src="chapters/chapter_0216.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0217" playOrder="217">
+      <navLabel><text>Chapter 217 Well Done Princess Kestrel</text></navLabel>
+      <content src="chapters/chapter_0217.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0218" playOrder="218">
+      <navLabel><text>Chapter 218 Goodbye Princess Kestrel</text></navLabel>
+      <content src="chapters/chapter_0218.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0219" playOrder="219">
+      <navLabel><text>Chapter 219 What Kind Of Swordsmaster Would She Be</text></navLabel>
+      <content src="chapters/chapter_0219.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0220" playOrder="220">
+      <navLabel><text>Chapter 220 This Is Absolute Robbery</text></navLabel>
+      <content src="chapters/chapter_0220.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0221" playOrder="221">
+      <navLabel><text>Chapter 221 Are You An Utter Fool</text></navLabel>
+      <content src="chapters/chapter_0221.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0222" playOrder="222">
+      <navLabel><text>Chapter 222 You Can Count On Me</text></navLabel>
+      <content src="chapters/chapter_0222.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0223" playOrder="223">
+      <navLabel><text>Chapter 223 Ill Be Back I Promise</text></navLabel>
+      <content src="chapters/chapter_0223.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0224" playOrder="224">
+      <navLabel><text>Chapter 224 The Murder Mountains It Is</text></navLabel>
+      <content src="chapters/chapter_0224.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0225" playOrder="225">
+      <navLabel><text>Chapter 225 This Is The One</text></navLabel>
+      <content src="chapters/chapter_0225.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0226" playOrder="226">
+      <navLabel><text>Chapter 226 Like Riding A Bike</text></navLabel>
+      <content src="chapters/chapter_0226.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0227" playOrder="227">
+      <navLabel><text>Chapter 227 One With The Mountain</text></navLabel>
+      <content src="chapters/chapter_0227.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0228" playOrder="228">
+      <navLabel><text>Chapter 228 Your Body And Your Sword Is One</text></navLabel>
+      <content src="chapters/chapter_0228.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0229" playOrder="229">
+      <navLabel><text>Chapter 229 Like A Passenger</text></navLabel>
+      <content src="chapters/chapter_0229.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0230" playOrder="230">
+      <navLabel><text>Chapter 230 Its Almost Time</text></navLabel>
+      <content src="chapters/chapter_0230.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0231" playOrder="231">
+      <navLabel><text>Chapter 231 Penetrated By White-Hot Electricity</text></navLabel>
+      <content src="chapters/chapter_0231.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0232" playOrder="232">
+      <navLabel><text>Chapter 232 Raw Lightning Was The Way</text></navLabel>
+      <content src="chapters/chapter_0232.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0233" playOrder="233">
+      <navLabel><text>Chapter 233 Blast Me</text></navLabel>
+      <content src="chapters/chapter_0233.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0234" playOrder="234">
+      <navLabel><text>Chapter 234 A Fast Learner</text></navLabel>
+      <content src="chapters/chapter_0234.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0235" playOrder="235">
+      <navLabel><text>Chapter 235 Battle Of Wits And Steel</text></navLabel>
+      <content src="chapters/chapter_0235.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0236" playOrder="236">
+      <navLabel><text>Chapter 236 Stop Stumbling And Start Fighting</text></navLabel>
+      <content src="chapters/chapter_0236.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-0237" playOrder="237">
+      <navLabel><text>Chapter 237 Summon The Whole Gang</text></navLabel>
+      <content src="chapters/chapter_0237.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>
